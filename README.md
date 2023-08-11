@@ -5,12 +5,12 @@ Meu primeiro portifolio desenvolvido com os cursos de HTML e CSS da Alura
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Portifolio**
-| :label: Tecnologias | css, html, 
-| :rocket: URL         | https://url-deploy.com.br
+| :label: Tecnologias | HTML, CSS
+| :rocket: URL         |(https://kaygomesc.github.io/portifolio/)
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://imgur.com/BB88c0r#vitrinedev)
+![](https://i.imgur.com/BB88c0r.png#vitrinedev)
 
 ## Detalhes do projeto
 
